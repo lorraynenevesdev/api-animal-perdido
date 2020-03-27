@@ -24,5 +24,5 @@ router.put('/animal-perdido/:id', rotasAnimalPerdido.put);
 router.delete('/animal-perdido/:id', rotasAnimalPerdido.delete);
 
 //inicia o servidor
-app.listen( process.env.PORT | port);
+app.listen( process.env.PORT || port);
 console.log('API funcionando!');
