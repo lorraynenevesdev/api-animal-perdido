@@ -4,7 +4,8 @@
   "description": "Backend estágio Banco Semear ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node index.js"
   },
   "author": "Lorrayne Neves <lorrayneneves23@gmail.com>",
   "license": "ISC",
