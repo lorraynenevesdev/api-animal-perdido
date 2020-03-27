@@ -1,0 +1,19 @@
+{
+  "name": "api-animal-perdido",
+  "version": "1.0.0",
+  "description": "Backend estágio Banco Semear ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorrayne Neves <lorrayneneves23@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.5"
+  }
+}
