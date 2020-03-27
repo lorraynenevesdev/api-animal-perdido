@@ -8,7 +8,7 @@ const database = 'd3h1e6gli70da7';
 // const sequelize_instance = require('sequelize'); 
 // const host = 'mysql669.umbler.com';
 // const port = 41890;
-// const user = 'erico';
+// const user = 'lorrayne';
 // const password = '92444070eol';
 // const database = 'angular_nodejs';
 
